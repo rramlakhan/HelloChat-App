@@ -18,6 +18,8 @@
         <item name="colorOnSurface">@color/colorOnSurface</item>
         <item name="colorSurfaceVariant">@color/colorSecondaryVariant</item>
         <item name="colorOnSurfaceVariant">@color/colorSecondaryVariant</item>
+
+        <item name="android:windowIsTranslucent">true</item>
     </style>
 
     <style name="Theme.HelloChat" parent="Base.Theme.HelloChat" />
