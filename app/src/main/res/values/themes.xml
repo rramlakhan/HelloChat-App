@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.HelloChat" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.HelloChat" parent="Base.Theme.HelloChat" />
+</resources>
