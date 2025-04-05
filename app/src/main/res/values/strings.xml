@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">HelloChat</string>
     <string name="app_logo">App logo</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hi_welcome_back_please_login_to_your_account">Hi Welcome back, please login to your account</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="create_account">Create Account</string>
+    <string name="fill_your_details_to_continue">Fill your details to continue</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="agree_with_terms_and_condition">Agree with Terms and Condition</string>
+    <string name="already_have_an_account">Already have an account?</string>
 </resources>
